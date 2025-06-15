@@ -2,6 +2,13 @@
 name = "mock_todo"
 version = "0.1.0"
 edition = "2024"
+description = "A macro that makes it easy to mock todo with values to make the code compilable."
+readme = "README.md"
+homepage = "https://github.com/regpab/mock_todo"
+repository = "https://github.com/regpab/mock_todo"
+license-file = "LICENSE"
+keywords = ["macro", "todo", "mock"]
+categories = ["development-tools::debugging"]
 
 [dependencies]
 
